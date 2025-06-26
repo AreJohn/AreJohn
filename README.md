@@ -60,12 +60,11 @@ I'm passionate about using data to solve real-world problems across marketing, e
 
 ## 📊 GitHub Stats
 
-![Aremo John's GitHub stats](https://github-readme-stats.vercel.app/api?username=AreJohn&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AreJohn&show_icons=true&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AreJohn&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AreJohn&layout=compact&theme=dark)
 
 ---
 
-<!--
-✨ Thank you for visiting my profile!
--->
+
+## ✨ Thank you for visiting my profile!
